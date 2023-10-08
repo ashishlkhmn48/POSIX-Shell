@@ -1,0 +1,9 @@
+clear
+ls
+clearls -l
+ls -l
+history
+history 3
+history
+history 3
+ls
